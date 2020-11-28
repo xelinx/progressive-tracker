@@ -45,7 +45,8 @@ no test
 * Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
 
 ## Screenshots of the Deployed Application 
-![Portfolio](https://user-images.githubusercontent.com/66236313/100091197-28dbaa00-2e09-11eb-9463-f78de9540a67.gif)
+
+
 
 ## Review
 
