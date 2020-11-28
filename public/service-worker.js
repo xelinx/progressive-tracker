@@ -70,6 +70,7 @@ self.addEventListener("fetch", function (evt) {
           });
       }).catch(err => console.log(err))
     );
+    return;
   } else {
     // respond from static cache, request is not for /api/*
     evt.respondWith(
