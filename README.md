@@ -46,6 +46,7 @@ no test
 
 ## Screenshots of the Deployed Application 
 
+<img width="862" alt="Budget Tracker" src="https://user-images.githubusercontent.com/66236313/100499044-5c754780-311b-11eb-8ee5-3a66d32397a8.png">
 
 
 ## Review
